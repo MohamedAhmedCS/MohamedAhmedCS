@@ -1,11 +1,4 @@
-- 👋 Hi, I’m Mohamed Ahmed
-- 👀 I’m interested in Web develpment, Machine learning, Automation and Digital storage 
-- 🌱 I’m currently learning more about Operating systems, advanced database systems and Software Testing & QA 
-- 💞️ I’m looking to collaborate on fun projects
-- 📫 You can reach me via Linkedin https://www.linkedin.com/in/mohamed-ahmed2/
-- 😄 Pronouns: He, Him, His
-- ⚡ Fun fact: My first programming languages were C++ and Assembly language. 
-
+Hi, I’m Mohamed Ahmed, a recent graduate from Sacramento State University with a degree in Computer Science. I am passionate about all things related to software engineering, including web development, machine learning, automation, and digital storage systems. Currently, I’m focused on expanding my expertise in machine learning and exploring innovative approaches to automation. I’m always eager to collaborate on engaging projects that push the boundaries of creativity and technology.
 <!---
 MohamedAhmedCS/MohamedAhmedCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
