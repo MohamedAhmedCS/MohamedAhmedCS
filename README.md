@@ -15,6 +15,12 @@
 ### 🔥 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmedCS&layout=compact&theme=radical)
 
+### 🎯Streak Stats
+
+- **Streak Stats**: Track your coding streaks and daily contributions.
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmedCS&theme=radical)
+
+
 ---
 
 ### 🛠 Skills & Tools
@@ -36,13 +42,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 🎯 
-- **Dynamic Activity Graph**: Visualize your recent contributions.
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohamedAhmedCS&theme=react-dark)
-
----
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ahmed2)
