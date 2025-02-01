@@ -12,6 +12,11 @@
 ### 📊 GitHub Stats
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAhmedCS&show_icons=true&theme=radical)
 
+### 🔥 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmedCS&layout=compact&theme=radical)
+
+---
+
 ### 🛠 Skills & Tools
 #### Programming Languages:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -33,6 +38,16 @@
 
 ---
 
+### 🎯 Cool Features
+- **Dynamic Activity Graph**: Visualize your recent contributions.
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohamedAhmedCS&theme=react-dark)
+
+- **Streak Stats**: Track your coding streaks and daily contributions.
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmedCS&theme=radical)
+
+---
+
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ahmed2)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAhmedCS)
+
