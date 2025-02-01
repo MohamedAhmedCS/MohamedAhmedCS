@@ -42,9 +42,6 @@
 - **Dynamic Activity Graph**: Visualize your recent contributions.
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohamedAhmedCS&theme=react-dark)
 
-- **Streak Stats**: Track your coding streaks and daily contributions.
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmedCS&theme=radical)
-
 ---
 
 ### 📫 Let's Connect!
