@@ -38,7 +38,7 @@
 
 ---
 
-### 🎯 Cool Features
+### 🎯 
 - **Dynamic Activity Graph**: Visualize your recent contributions.
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohamedAhmedCS&theme=react-dark)
 
