@@ -16,9 +16,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmedCS&layout=compact&theme=radical)
 
 ### 🎯Streak Stats
-
-- **Streak Stats**: Track your coding streaks and daily contributions.
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmedCS&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmedCS&theme=radical)
 
 
 ---
