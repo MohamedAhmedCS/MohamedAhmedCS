@@ -7,20 +7,6 @@
 - 🔭 Exploring **data-driven applications**, **CI/CD pipelines**, and **automation testing**.
 - 🌟 Strong leadership and cross-functional collaboration experience.
 
----
-
-### 📊 GitHub Stats
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAhmedCS&show_icons=true&theme=radical)
-
-### 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmedCS&layout=compact&theme=radical)
-
-### 🎯Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmedCS&theme=radical)
-
-
----
-
 ### 🛠 Skills & Tools
 #### Programming Languages:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -40,6 +26,19 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAhmedCS&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmedCS&layout=compact&theme=radical)
+
+### 🎯Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmedCS&theme=radical)
+
+
+---
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ahmed2)
