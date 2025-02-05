@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Mohamed Ahmed.
 
 ### 👨‍💻 About Me
-- 💼 Currently seeking a **Software Development role**.
+- 💼 Currently seeking a **Software Development role**
 - 🛠 Skilled in **Go**, **Python**, **C**, **C++**, **Java**, and **Assembly Language (MASM)**.
 - 🌐 Experienced with **React**, **Next.js**, **Node.js**, **PostgreSQL**, **Docker**, **Kubernetes**, and **Agile Methodology**.
 - 🔭 Exploring **data-driven applications**, **CI/CD pipelines**, and **automation testing**.
